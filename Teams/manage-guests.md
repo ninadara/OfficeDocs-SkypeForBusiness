@@ -21,7 +21,8 @@ After the **Guest** user/license type is turned on, you can configure settings f
     
 IT admins can add guests at the tenant level, set and manage guest user policies and permissions, determine which users can invite guests, and pull reports on guest user activity. These controls are available through the Office 365 admin center. Guest user content and activities are under the same compliance and auditing protection as the rest of Office 365.
 
-Team owners can invite new guests and add existing directory guest users to their teams. In addition, team owners can set channel-related capabilities for guests via **Manage teams** > **Guest permissions**, including allowing guests to create, update, and delete channels, as shown in the following screenshot:![Guest permissions settings in Teams.](media/view-guests-guest-permissions.png)
+Team owners can invite new guests and add existing directory guest users to their teams. In addition, team owners can set channel-related capabilities for guests via **Manage teams** > **Guest permissions**, including allowing guests to create, update, and delete channels, as shown in the following screenshot:!
+[Guest permissions settings in Teams.](media/view-guests-guest-permissions.png)
   
     
     
